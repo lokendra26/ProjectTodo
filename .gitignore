@@ -1,0 +1,5 @@
+/.metadata/
+ProjectTodo/.settings/
+ProjectTodo/*.classpath
+ProjectTodo/*.project
+ProjectTodo/target/
